@@ -1,2 +1,2 @@
-# amzn_forecast
+# stock_forecast
  Forecasting Amazon stock price
