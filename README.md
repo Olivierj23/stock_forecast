@@ -1,2 +1,2 @@
 # stock_forecast
- Forecasting Amazon stock price
+ Forecasting stock price
